@@ -31,5 +31,6 @@ def sendData(data):
         print("Waiting for confirmation...")
         response = conn.recv()
         print(f"Server response: {response}")
-
-inputData()
+        
+if __name__ == "__main__":
+    inputData()
