@@ -1,5 +1,5 @@
 # Microservice_A_CS361
-Microservice A for CS361 for Alvaro.
+Microservice A for CS361.
 ## Requirements
 - Python 3.6+
 - Dependencies listed in `requirements.txt`
